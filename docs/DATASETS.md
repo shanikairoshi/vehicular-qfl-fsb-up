@@ -1,0 +1,3 @@
+# Dataset documentation
+
+Datasets: HDSVT, NGSIM and OpenDD. For each dataset, record the official source URL and version, access and redistribution conditions, raw input filenames, preprocessing command or notebook, feature and label definitions, split identifiers, train-only normalization/PCA fitting, output filenames and checksums. Record the non-IID allocation configuration and seeds. For OpenDD, record the trajectory-to-V2X trace generation procedure, RSU coordinates and coverage, delay/loss model, handovers and trace checksums. These details must be filled from the actual frozen preprocessing artifacts; they have not been verified in this draft.

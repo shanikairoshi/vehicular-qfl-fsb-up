@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these research artifacts, please cite the accompanying manuscript."
+title: "Modeling Secure and Communication-Efficient Quantum Federated Learning for Vehicular Networks"
+authors:
+  - family-names: Nanayakkara
+    given-names: Shanika I.
+  - family-names: Pokhrel
+    given-names: Shiva Raj
+repository-code: "https://github.com/shanikairoshi/vehicular-qfl-fsb-up"
+type: software
